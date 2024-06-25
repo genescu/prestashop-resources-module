@@ -10,4 +10,3 @@
 ### Description:
 The WTS Resources module allows adding external CSS and JS files to enhance the appearance and functionality of your PrestaShop store.
 
-
