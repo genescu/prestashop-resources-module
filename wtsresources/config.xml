@@ -1,0 +1,12 @@
+<module>
+    <name>wtsresources</name>
+    <displayName><![CDATA[WTS Resources]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Allows adding external CSS and JS files.]]></description>
+    <author><![CDATA[genescu]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <ps_versions_compliancy>
+        <min>8.0.0</min>
+        <max>8.99.99</max>
+    </ps_versions_compliancy>
+</module>
